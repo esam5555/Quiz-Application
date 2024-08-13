@@ -1,0 +1,83 @@
+
+[
+    {
+        "title": "How many planets are in our solar system?",
+        "answer_1":"The solar system have '6' planets ",
+        "answer_2":"The solar system have '7' planets ",
+        "answer_3":"The solar system have '8' planets ",
+        "answer_4":"The solar system have '9' planets ",
+        "right_answer":"The solar system have '8' planets "
+    },
+    {
+        "title": "Who painted the Mona Lisa?",
+        "answer_1":"Henri Matisse ",
+        "answer_2":"Antoine Watteau ",
+        "answer_3":"Mark Rothko",
+        "answer_4":" Thomas Allom",
+        "right_answer":"Leonardo da Vinci"
+    },
+        {
+            "title": "Choose the correct preposition: 'I am interested _____ learning Spanish.'",
+            "answer_1": "on",
+            "answer_2":"at",
+            "answer_3":"in",
+            "answer_4":"with",
+            "right_answer": "in"
+        },
+        {
+            "title": "What is the opposite of 'happy'?",
+            "answer_1": "sad",
+            "answer_2":"joyful",
+            "answer_3":"cheerful",
+            "answer_4":"content",
+            "right_answer": "sad"
+        },
+        {
+            "title": "Which word is a noun?",
+            "answer_1": "beauty",
+            "answer_2":"quickly",
+            "answer_3":"happy",
+            "answer_4":"laugh",
+            "right_answer": "beauty"
+        },
+        {
+            "title": "Complete the sentence: 'I _____ my homework yesterday.'",
+            "answer_1": "do",
+            "answer_2":"does",
+            "answer_3":"did",
+            "answer_4":"doing",
+            "right_answer": "did"
+        },
+        {
+            "title": "Which is the correct plural form of 'child'?",
+            "answer_1": "childs",
+            "answer_2":"childes",
+            "answer_3":"child",
+            "answer_4":"children",
+            "right_answer": "children"
+        },
+        {
+            "title": "What is the meaning of the idiom 'hit the books'",
+            "answer_1": "to go to a party",
+            "answer_2":"to watch TV",
+            "answer_3":"to sleep",
+            "answer_4":"to study",
+            "right_answer": "to study"
+        },
+        {
+            "title": "Choose the correct word to complete the sentence: 'I _____ a new car last week.'",
+            "answer_1": "buy",
+            "answer_2":"buying",
+            "answer_3":"buys",
+            "answer_4":"bought",
+            "right_answer": "bought"
+        },
+        {
+            "title": "What is the synonym of 'big'?",
+            "answer_1": "small",
+            "answer_2":"large",
+            "answer_3":"little",
+            "answer_4":"short",
+            "right_answer": "large  "
+        }
+]
